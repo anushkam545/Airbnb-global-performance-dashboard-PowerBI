@@ -147,17 +147,7 @@ CALCULATE([Reviewers], ALL(Reviews[Reviews per Reviewer]))
 ```
 
 ---
-
-## Tools & Technologies
-
-* **Power BI**
-* **DAX**
-* **Data Modeling**
-* **Data Visualization**
-* **CSV Data Processing**
-
----
-
+ 
 ## Skills Demonstrated
 
 * Data Cleaning & Preparation
