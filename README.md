@@ -11,7 +11,9 @@ The dashboard integrates multiple datasets and uses **data modeling, DAX measure
 
 ## 📂 Data Sources
 
-Datasets used in this project:
+The datasets used in this project were obtained from **Mapple Analytics**.
+
+Due to file size limitations, the raw datasets are not included in this repository.
 
 * `listings.csv`
 * `reviews.csv`
